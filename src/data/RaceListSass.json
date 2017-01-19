@@ -1,0 +1,362 @@
+[
+ {
+   "Date": "1/7/2017",
+   "WeekNum": 2,
+   "Name": "Nashville 5k",
+   "Priority": "",
+   "Distance": "",
+   "Type": "Run",
+   "Location": "Nashville",
+   "Info:": "www.thissite.com"
+ },
+ {
+   "Date": "1/8/2017",
+   "WeekNum": 2,
+   "Name": "ALS 100x100 Swim",
+   "Priority": "",
+   "Distance": "",
+   "Type": "Swim",
+   "Location": "YWCA",
+   "Info:": "www.thatsite.com"
+ },
+ {
+   "Date": "1/14",
+   "WeekNum": 3,
+   "Name": "7 mile TT",
+   "Priority": "",
+   "Distance": "",
+   "Type": "Bike",
+   "Location": "Somewhere",
+   "Info:": "www.moresites.com"
+ },
+ {
+   "Date": "1/21/2017",
+   "WeekNum": 4,
+   "Name": "6 mile TT",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "1/27/2017",
+   "WeekNum": 5,
+   "Name": "Veulta Peurto Rico",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "2/4/2017",
+   "WeekNum": 6,
+   "Name": "20 mile TT",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "2/11/2017",
+   "WeekNum": 7,
+   "Name": "5 mile (TT?) bike or run",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "4/1",
+   "WeekNum": 14,
+   "Name": "1/2 Marathon",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "4/9/2017",
+   "WeekNum": 15,
+   "Name": "Duathlon (2mi/14mi/2mi)",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "4/22/17",
+   "WeekNum": 17,
+   "Name": "Century Bike",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "4/29/2017",
+   "WeekNum": 18,
+   "Name": "Long Course Du Nationals",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "5/6/2017",
+   "WeekNum": 19,
+   "Name": "3 state 3 Mt Centure",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "5/20/2017",
+   "WeekNum": 21,
+   "Name": "Memphis in May Sprint",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "5/21/2017",
+   "WeekNum": 21,
+   "Name": "Memphis in May Oly",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "6/3/2017",
+   "WeekNum": 23,
+   "Name": "Masters Nationals TT",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "6/10/2017",
+   "WeekNum": 24,
+   "Name": "State TT",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "6/17/2017",
+   "WeekNum": 25,
+   "Name": "Du Nationals",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "6/18/2017",
+   "WeekNum": 25,
+   "Name": "Du Nationals",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "6/25/2017",
+   "WeekNum": 26,
+   "Name": "Chatanooga Oly Tri",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "7/15/2017",
+   "WeekNum": 29,
+   "Name": "Rockabilly Womens Bike Race",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "7/23/2017",
+   "WeekNum": 30,
+   "Name": "Music CIty Olympic Tri",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "7/29/2017",
+   "WeekNum": 31,
+   "Name": "State RR",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "7/25/2017",
+   "WeekNum": 31,
+   "Name": "Music CIty Olympic Tri",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "8/5/2017",
+   "WeekNum": 32,
+   "Name": "Battle of Nashville Crit",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "8/12",
+   "WeekNum": 33,
+   "Name": "Olympic Nationals",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "8/13/2017",
+   "WeekNum": 33,
+   "Name": "Sprint Nationals",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "8/19/2017",
+   "WeekNum": 34,
+   "Name": "Worlds, Du Sprint, Draft",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "8/21/2017",
+   "WeekNum": 35,
+   "Name": "Worlds, Du, Oly, Non-draft",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "8/25/2017",
+   "WeekNum": 35,
+   "Name": "Worlds Aquathlon",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "8/27/2017",
+   "WeekNum": 35,
+   "Name": "Worlds, Aquabike",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "9/9/2017",
+   "WeekNum": 37,
+   "Name": "70.3 Worlds",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "9/14/2017",
+   "WeekNum": 38,
+   "Name": "Sprint/ Oly Worlds",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "10/1/2017",
+   "WeekNum": 40,
+   "Name": "Aquathlon Nationals",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "10/14/2017",
+   "WeekNum": 42,
+   "Name": "Kona",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "11/4/2017",
+   "WeekNum": 45,
+   "Name": "IM FLorida",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ },
+ {
+   "Date": "11/12/2017",
+   "WeekNum": 46,
+   "Name": "Aquabike Nationals",
+   "Priority": "",
+   "Distance": "",
+   "Type": "",
+   "Location": "",
+   "Info:": ""
+ }
+]
