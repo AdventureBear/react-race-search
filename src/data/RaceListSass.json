@@ -6,7 +6,7 @@
    "Priority": "",
    "Distance": "",
    "Type": "Run",
-   "Location": "Nashville",
+   "Location": "Nashville, TN",
    "Info:": "www.thissite.com"
  },
  {
@@ -35,7 +35,7 @@
    "Name": "6 mile TT",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Bike",
    "Location": "",
    "Info:": ""
  },
@@ -45,8 +45,8 @@
    "Name": "Veulta Peurto Rico",
    "Priority": "",
    "Distance": "",
-   "Type": "",
-   "Location": "",
+   "Type": "Bike",
+   "Location": "San Juan, PR",
    "Info:": ""
  },
  {
@@ -55,7 +55,7 @@
    "Name": "20 mile TT",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Bike",
    "Location": "",
    "Info:": ""
  },
@@ -65,7 +65,7 @@
    "Name": "5 mile (TT?) bike or run",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Bike",
    "Location": "",
    "Info:": ""
  },
@@ -85,7 +85,7 @@
    "Name": "Duathlon (2mi/14mi/2mi)",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Duathlon",
    "Location": "",
    "Info:": ""
  },
@@ -95,7 +95,7 @@
    "Name": "Century Bike",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Bike",
    "Location": "",
    "Info:": ""
  },
@@ -105,17 +105,17 @@
    "Name": "Long Course Du Nationals",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Triathlon",
    "Location": "",
    "Info:": ""
  },
  {
    "Date": "5/6/2017",
    "WeekNum": 19,
-   "Name": "3 state 3 Mt Centure",
+   "Name": "3 state 3 Mt Century",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Bike",
    "Location": "",
    "Info:": ""
  },
@@ -124,9 +124,9 @@
    "WeekNum": 21,
    "Name": "Memphis in May Sprint",
    "Priority": "",
-   "Distance": "",
-   "Type": "",
-   "Location": "",
+   "Distance": "Sprint",
+   "Type": "Triathlon",
+   "Location": "Memphis, TN",
    "Info:": ""
  },
  {
@@ -134,9 +134,9 @@
    "WeekNum": 21,
    "Name": "Memphis in May Oly",
    "Priority": "",
-   "Distance": "",
-   "Type": "",
-   "Location": "",
+   "Distance": "Olympic",
+   "Type": "Triathlon",
+   "Location": "Memphis, TN",
    "Info:": ""
  },
  {
@@ -145,7 +145,7 @@
    "Name": "Masters Nationals TT",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Bike",
    "Location": "",
    "Info:": ""
  },
@@ -165,7 +165,7 @@
    "Name": "Du Nationals",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Duathlon",
    "Location": "",
    "Info:": ""
  },
@@ -175,7 +175,7 @@
    "Name": "Du Nationals",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Duathlon",
    "Location": "",
    "Info:": ""
  },
@@ -192,7 +192,7 @@
  {
    "Date": "7/15/2017",
    "WeekNum": 29,
-   "Name": "Rockabilly Womens Bike Race",
+   "Name": "Rockabilly Women's Bike Race",
    "Priority": "",
    "Distance": "",
    "Type": "",
@@ -202,11 +202,11 @@
  {
    "Date": "7/23/2017",
    "WeekNum": 30,
-   "Name": "Music CIty Olympic Tri",
+   "Name": "Music City Olympic Tri",
    "Priority": "",
    "Distance": "",
-   "Type": "",
-   "Location": "",
+   "Type": "Triathlon",
+   "Location": "Memphis, TN",
    "Info:": ""
  },
  {
@@ -215,18 +215,18 @@
    "Name": "State RR",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Bike",
    "Location": "",
    "Info:": ""
  },
  {
    "Date": "7/25/2017",
    "WeekNum": 31,
-   "Name": "Music CIty Olympic Tri",
+   "Name": "Music City Olympic Tri",
    "Priority": "",
-   "Distance": "",
+   "Distance": "Oympic",
    "Type": "",
-   "Location": "",
+   "Location": "Nashville, TN",
    "Info:": ""
  },
  {
@@ -235,8 +235,8 @@
    "Name": "Battle of Nashville Crit",
    "Priority": "",
    "Distance": "",
-   "Type": "",
-   "Location": "",
+   "Type": "Bike",
+   "Location": "Nashville, TN",
    "Info:": ""
  },
  {
@@ -244,9 +244,9 @@
    "WeekNum": 33,
    "Name": "Olympic Nationals",
    "Priority": "",
-   "Distance": "",
-   "Type": "",
-   "Location": "",
+   "Distance": "Olympic",
+   "Type": "Triathlon",
+   "Location": "Omaha, NE",
    "Info:": ""
  },
  {
@@ -254,9 +254,9 @@
    "WeekNum": 33,
    "Name": "Sprint Nationals",
    "Priority": "",
-   "Distance": "",
-   "Type": "",
-   "Location": "",
+   "Distance": "Olympic",
+   "Type": "Triathlon",
+   "Location": "Omaha, NE",
    "Info:": ""
  },
  {
@@ -264,8 +264,8 @@
    "WeekNum": 34,
    "Name": "Worlds, Du Sprint, Draft",
    "Priority": "",
-   "Distance": "",
-   "Type": "",
+   "Distance": "Sprint",
+   "Type": "Duathlon",
    "Location": "",
    "Info:": ""
  },
@@ -274,8 +274,8 @@
    "WeekNum": 35,
    "Name": "Worlds, Du, Oly, Non-draft",
    "Priority": "",
-   "Distance": "",
-   "Type": "",
+   "Distance": "Olympic",
+   "Type": "Duathlon",
    "Location": "",
    "Info:": ""
  },
@@ -285,7 +285,7 @@
    "Name": "Worlds Aquathlon",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Auathlon",
    "Location": "",
    "Info:": ""
  },
@@ -304,8 +304,8 @@
    "WeekNum": 37,
    "Name": "70.3 Worlds",
    "Priority": "",
-   "Distance": "",
-   "Type": "",
+   "Distance": "70.3",
+   "Type": "Triathlon",
    "Location": "",
    "Info:": ""
  },
@@ -314,8 +314,8 @@
    "WeekNum": 38,
    "Name": "Sprint/ Oly Worlds",
    "Priority": "",
-   "Distance": "",
-   "Type": "",
+   "Distance": "Olympic",
+   "Type": "Triathlon",
    "Location": "",
    "Info:": ""
  },
@@ -325,7 +325,7 @@
    "Name": "Aquathlon Nationals",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Aquathlon",
    "Location": "",
    "Info:": ""
  },
@@ -334,19 +334,19 @@
    "WeekNum": 42,
    "Name": "Kona",
    "Priority": "",
-   "Distance": "",
+   "Distance": "Ironman",
    "Type": "",
-   "Location": "",
+   "Location": "Kailua-Kona, HI",
    "Info:": ""
  },
  {
    "Date": "11/4/2017",
    "WeekNum": 45,
-   "Name": "IM FLorida",
+   "Name": "IM Florida",
    "Priority": "",
-   "Distance": "",
+   "Distance": "Ironman",
    "Type": "",
-   "Location": "",
+   "Location": "FL",
    "Info:": ""
  },
  {
@@ -355,7 +355,7 @@
    "Name": "Aquabike Nationals",
    "Priority": "",
    "Distance": "",
-   "Type": "",
+   "Type": "Aquabike",
    "Location": "",
    "Info:": ""
  }

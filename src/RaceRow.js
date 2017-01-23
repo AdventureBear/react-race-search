@@ -6,8 +6,9 @@ class RaceRow extends Component {
 
     render(){
         return (
-            <div className="component-race-row" onClick={this.props.raceClick}>
-                <p>{this.props.date} {this.props.name}</p>
+            <div className="component-racerow" onClick={this.props.raceClick}>
+                <p><span className="date">{this.props.date}</span> <span className="name">{this.props.name}</span>
+                <span className="location">{this.props.location}</span></p>
             </div>
         )
     }

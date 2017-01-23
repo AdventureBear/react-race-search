@@ -1,0 +1,13 @@
+.component-racerow {
+   text-align: left;
+}
+
+.date, .location {
+    font-size: .8em;
+
+}
+
+.name {
+    display: block;
+    left: 100px;
+}

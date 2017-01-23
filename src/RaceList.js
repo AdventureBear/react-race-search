@@ -10,12 +10,12 @@ class RaceList extends Component {
     render(){
 
         return (
-            <div className="component-RaceList">
+            <div className="component-racelist">
 
                 {
                     this.props.races.map((race,i) => {
                         //console.log("Race Name: ", race, i)
-                        return <RaceRow  raceClick={this.props.raceClick} key={i} date={race.Date} name={race.Name} />
+                        return <RaceRow  raceClick={this.props.raceClick} key={i} date={race.Date} name={race.Name} location={race.Location}/>
                     })
                 }
 

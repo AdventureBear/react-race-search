@@ -12,8 +12,8 @@ class RaceSearch extends Component {
     render(){
         return (
           <div className="component-race-search">
-              <span>Search:</span>
-              <input onChange={this.handleChange}  placeholder="Find Race" />
+              <span className="label">Search:</span>
+              <input  className="input" onChange={this.handleChange}  placeholder="Find Race" />
           </div>
         )
     }

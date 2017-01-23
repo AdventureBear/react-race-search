@@ -5,7 +5,7 @@ class Athlete extends Component {
     render(){
         return (
             <div className="component-athlete">
-                <p>{this.props.name}</p>
+                <p><span class="athlete">Athlete: </span>{this.props.name}</p>
             </div>
         )
     }
