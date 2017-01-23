@@ -5,16 +5,28 @@ import RaceSearch from './RaceSearch'
 import RaceList from './RaceList'
 import Footer from './Footer'
 
-import data from './data/RaceListSass.json'
+import searchRace from './searchRace'
+
+
+import raceData from './data/RaceListSass.json'
 //var data = require('./data/RaceListSass'); // forward slashes will depend on the file location
 
-data.forEach(function(race){
-  console.log("Date: " + race.Date + ", Name: " + race.Name)
+raceData.forEach(function(race){
+  console.log("Date: " + raceData.Date + ", Name: " + raceData.Name)
 })
 
 
 class App extends Component {
+  constructor(props){
+    super(props)
+    this.state= {
+       RaceList: raceData
+    }
+  }
   handleSearchChange = (event) => {
+    this.setState({
+      RaceList: searchRace(event.target.value, 20)
+    })
     console.log('search input changed to:', event.target.value);
   }
   handleRaceClick = () => {
@@ -29,38 +41,8 @@ class App extends Component {
         <div className="App-intro">
 
           <RaceSearch textChange={this.handleSearchChange}/>
-          <RaceList raceClick={this.handleRaceClick} races = {[
-            {
-                "Date": "1/7/2017",
-                "WeekNum": 2,
-                "Name": "Nashville 5k",
-                "Priority": "",
-                "Distance": "",
-                "Type": "Run",
-                "Location": "Nashville",
-                "Info:": "www.thissite.com"
-            },
-            {
-                "Date": "1/8/2017",
-                "WeekNum": 2,
-                "Name": "ALS 100x100 Swim",
-                "Priority": "",
-                "Distance": "",
-                "Type": "Swim",
-                "Location": "YWCA",
-                "Info:": "www.thatsite.com"
-            },
-            {
-                "Date": "1/14",
-                "WeekNum": 3,
-                "Name": "7 mile TT",
-                "Priority": "",
-                "Distance": "",
-                "Type": "Bike",
-                "Location": "Somewhere",
-                "Info:": "www.moresites.com"
-            }
-        ]} />
+          <RaceList raceClick={this.handleRaceClick} races={this.state.RaceList}
+          />
           <Footer athleteName="Kirsten Sass"/>
         </div>
       </div>

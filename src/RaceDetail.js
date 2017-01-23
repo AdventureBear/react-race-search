@@ -1,9 +1,7 @@
 import React, { Component, PropTypes } from 'react'
 
 class RaceDetail extends Component {
-    constructor(props){
-        super(props)
-    }
+
 
     render(){
         return (

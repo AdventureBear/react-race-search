@@ -1,10 +1,6 @@
 import React, { Component, PropTypes } from 'react'
 
 class Athlete extends Component {
-    constructor(props){
-        super(props)
-    }
-
     render(){
         return (
             <div className="athlete">
@@ -14,7 +10,7 @@ class Athlete extends Component {
     }
 }
 
-Athlete.propTypes = {
+Athlete.PropTypes = {
     name: React.PropTypes.string
 };
 

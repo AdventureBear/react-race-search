@@ -2,9 +2,7 @@ import React, { Component, PropTypes } from 'react'
 import logo from './logo.svg'
 
 class Header extends Component {
-    constructor(props){
-        super(props)
-    }
+
 
     render(){
         return (

@@ -2,9 +2,6 @@ import React, { Component, PropTypes } from 'react'
 import Athlete from './Athlete'
 
 class Footer extends Component {
-    constructor(props){
-        super(props)
-    }
 
     render(){
         return (
@@ -15,7 +12,7 @@ class Footer extends Component {
     }
 }
 
-Footer.propTypes = {
+Footer.PropTypes = {
     athleteName: React.PropTypes.string
 };
 
