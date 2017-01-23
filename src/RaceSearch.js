@@ -1,4 +1,5 @@
 import React, { Component, PropTypes } from 'react'
+import './RaceSearch.css'
 
 class RaceSearch extends Component {
 
@@ -10,7 +11,7 @@ class RaceSearch extends Component {
 
     render(){
         return (
-          <div>
+          <div className="component-race-search">
               <span>Search:</span>
               <input onChange={this.handleChange}  placeholder="Find Race" />
           </div>

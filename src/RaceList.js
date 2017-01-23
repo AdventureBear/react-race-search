@@ -2,7 +2,7 @@ import React, { Component, PropTypes } from 'react'
 import RaceRow from './RaceRow'
 import RaceDetail from './RaceDetail'
 
-
+import './RaceList.css'
 
 
 class RaceList extends Component {
@@ -10,7 +10,7 @@ class RaceList extends Component {
     render(){
 
         return (
-            <div className="RaceList">
+            <div className="component-RaceList">
 
                 {
                     this.props.races.map((race,i) => {

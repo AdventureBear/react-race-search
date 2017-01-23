@@ -1,0 +1,10 @@
+.component-athlete {
+    width: 100%;
+    height: 150px;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: #444444;
+    color: #ffffff;
+}
+

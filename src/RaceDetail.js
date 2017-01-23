@@ -1,11 +1,12 @@
 import React, { Component, PropTypes } from 'react'
+import './RaceDetail.css'
 
 class RaceDetail extends Component {
 
 
     render(){
         return (
-            <div>
+            <div className="component-racedetail">
                 <h3>Event Name: {this.props.name} </h3>
                 <p>Event Type: {this.props.type} </p>
                 <p>Date: {this.props.date}</p>

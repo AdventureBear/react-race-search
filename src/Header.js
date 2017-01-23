@@ -1,5 +1,6 @@
 import React, { Component, PropTypes } from 'react'
 import logo from './logo.svg'
+import './Header.css'
 
 class Header extends Component {
 
@@ -7,7 +8,7 @@ class Header extends Component {
     render(){
         return (
 
-                <div className="header">
+                <div className="component-header">
                     <img src={logo} className="App-logo" alt="logo" />
                     <h2>{this.props.searchType}</h2>
 

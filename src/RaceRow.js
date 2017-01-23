@@ -1,11 +1,12 @@
 import React, { Component, PropTypes } from 'react'
+import './RaceRow.css'
 
 class RaceRow extends Component {
 
 
     render(){
         return (
-            <div onClick={this.props.raceClick}>
+            <div className="component-race-row" onClick={this.props.raceClick}>
                 <p>{this.props.date} {this.props.name}</p>
             </div>
         )
