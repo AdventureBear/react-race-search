@@ -6,7 +6,7 @@ This is a simple one page app with a single function, to search for and filter a
 The page uses react with a static data file.
 
 ## Live Page
-
+http://adventurebear.github.io/react-race-search
 
 ## Source Code
 github.io/adventurebear/react-race-search
