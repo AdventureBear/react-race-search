@@ -12,7 +12,8 @@ import raceData from './data/RaceListSass.json'
 //var data = require('./data/RaceListSass'); // forward slashes will depend on the file location
 
 raceData.forEach(function(race){
-  console.log("Date: " + raceData.Date + ", Name: " + raceData.Name)
+  console.log(race)
+  //console.log("Date: " + raceData.Date + ", Name: " + raceData.Name)
 })
 
 
@@ -20,12 +21,13 @@ class App extends Component {
   constructor(props){
     super(props)
     this.state= {
-       RaceList: raceData
+      RaceList: raceData,
+      AthleteName: "Kirsten Sass"
     }
   }
   handleSearchChange = (event) => {
     this.setState({
-      RaceList: searchRace(event.target.value, 20)
+      RaceList: searchRace(event.target.value)
     })
     console.log('search input changed to:', event.target.value);
   }
@@ -43,7 +45,7 @@ class App extends Component {
           <RaceSearch textChange={this.handleSearchChange}/>
           <RaceList raceClick={this.handleRaceClick} races={this.state.RaceList}
           />
-          <Footer athleteName="Kirsten Sass"/>
+          <Footer athleteName={this.state.AthleteName}/>
         </div>
       </div>
     );
